@@ -1,6 +1,6 @@
 ## Go Ethereum
 
-Yet another super ultra meaningful PR. :-) :-)
+Another PR!
 
 Golang execution layer implementation of the Ethereum protocol.
 
