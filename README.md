@@ -1,6 +1,6 @@
 ## Go Ethereum
 
-Another PR! PR for issue [gitclaim-team/go-ethereum#12](https://github.com/gitclaim-team/go-ethereum/issues/12)
+This is a very meaningful change. :-)
 
 Golang execution layer implementation of the Ethereum protocol.
 
